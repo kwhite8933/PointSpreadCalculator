@@ -23,7 +23,7 @@ namespace PointSpreadCalculator
     /// </summary>
     public partial class MainWindow : System.Windows.Window
     {
-        string currentWeek = "";
+        string currentWeek = ""; // Current week being processed
         int gamesThisWeek = 0;
         Dictionary<string, string> Teams = new Dictionary<string, string>()
         {{"49ers", ""},
@@ -236,7 +236,7 @@ namespace PointSpreadCalculator
                         try
                         {
                             str = (col == 1) ? team.Key : team.Value;
-                            _sheet.Cells[row, col] = str;
+                            _sheet.Cells[row, col] = str.Trim();
                         }
                         catch(System.Runtime.InteropServices.COMException e)
                         {
@@ -277,34 +277,34 @@ namespace PointSpreadCalculator
                     Console.WriteLine(lines[i]);
                 }
 
-                    // Parce each game to get the team name and that teams' spread for the week
-                    for (int i = 0; i < lines.Length; i++)
+                // Parce each game to get the team name and that teams' spread for the week
+                for (int i = 0; i < lines.Length; i++)
+                {
+                    // .Split(null) splits each line of the file by the whitespace
+                    splitGame = lines[i].Split('-'); // splits each line of the file by the '-'
+                    splitGame[2] = splitGame[2].Trim();
+                    // if the team name contains an '@', that team is the home team
+                    // otherwise that team is the away team
+                    if (splitGame[0].Contains("@"))
                     {
-                        // .Split(null) splits each line of the file by the whitespace
-                        splitGame = lines[i].Split('-'); // splits each line of the file by the -
-
-                        // if the team name contains an '@', that team is the home team
-                        // otherwise that team is the away team
-                        if (splitGame[0].Contains("@"))
-                        {
-                            string key0 = convertCityToTeam(splitGame[0].Substring(1, splitGame[0].Length - 1));
-                            string key1 = convertCityToTeam(splitGame[1]);
-                            Teams[key0] = (splitGame[2].Contains("0.0")) ? splitGame[2] : "-" + splitGame[2];
-                            Teams[key1] = splitGame[2];
-                        }
-                        else if (splitGame[1].Contains("@"))
-                        {
-                            string key0 = convertCityToTeam(splitGame[0]);
-                            string key1 = convertCityToTeam(splitGame[1].Substring(1, splitGame[1].Length - 1));
-                            Teams[key0] = (splitGame[2].Contains("0.0")) ? splitGame[2] : "-" + splitGame[2];
-                            Teams[key1] = splitGame[2];
-                        }
-                        else
-                        {
-                            Console.WriteLine("Error finding home team, check games file to make sure a home team is declared");
-                        }
-
+                        string key0 = convertCityToTeam(splitGame[0].Substring(1, splitGame[0].Length - 1));
+                        string key1 = convertCityToTeam(splitGame[1]);
+                        Teams[key0] = (splitGame[2].Equals("0.0")) ? splitGame[2] : "-" + splitGame[2];
+                        Teams[key1] = splitGame[2];
                     }
+                    else if (splitGame[1].Contains("@"))
+                    {
+                        string key0 = convertCityToTeam(splitGame[0]);
+                        string key1 = convertCityToTeam(splitGame[1].Substring(1, splitGame[1].Length - 1));
+                        Teams[key0] = (splitGame[2].Equals("0.0")) ? splitGame[2] : "-" + splitGame[2];
+                        Teams[key1] = splitGame[2];
+                    }
+                    else
+                    {
+                        Console.WriteLine("Error finding home team, check games file to make sure a home team is declared");
+                    }
+
+                }
                 //Array.Sort(lines);
                 //System.IO.File.WriteAllLines("C:\\Users\\Kyle\\Documents\\Code\\C#\\PointSpreadCalculator\\output.txt", lines);
                 //Console.WriteLine(convertCityToTeam(lstGames[8].getHomeTeam()));
@@ -336,7 +336,7 @@ namespace PointSpreadCalculator
             
             match = getMatch(@"(\d\d?.\d\s){3}", result); // Removes the spreads from the previous days during the week
             result = result.Substring(0, match.Index) + result.Substring(match.Index + match.Value.Length);
-            
+
             match = getMatch(@"\s+vs\s+", result); // Replaces the *team* vs *team* with a '-' for easier parcing later
             result = result.Substring(0, match.Index) + "-" + result.Substring(match.Index + match.Value.Length);
 
