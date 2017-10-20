@@ -23,6 +23,7 @@ namespace PointSpreadCalculator
     /// </summary>
     public partial class MainWindow : System.Windows.Window
     {
+        string currentWeek = "";
         int gamesThisWeek = 0;
         Dictionary<string, string> Teams = new Dictionary<string, string>()
         {{"49ers", ""},
@@ -111,8 +112,10 @@ namespace PointSpreadCalculator
         /// <param name="e"></param>
         private void btnReadFile_Click(object sender, RoutedEventArgs e)
         {
-            //readFile("C:\\Users\\Kyle\\Documents\\Code\\C#\\PointSpreadCalculator\\Week6.txt");
-            readFile("Z:\\PointSpreadCalculator\\Matchups\\Week3.txt");
+            currentWeek = tbCurrentWeek.Text.ToString();
+            Console.WriteLine(currentWeek);
+            readFile(string.Format("C:\\Users\\Kyle\\Documents\\Code\\C#\\PointSpreadCalculator\\PointSpreadCalculator\\Matchups\\Week{0}.txt", currentWeek));
+            //readFile(string.Format("Z:\\PointSpreadCalculator\\Matchups\\Week{0}.txt", currentWeek));
         }
         #endregion
 

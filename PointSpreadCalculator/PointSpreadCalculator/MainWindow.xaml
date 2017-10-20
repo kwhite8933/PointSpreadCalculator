@@ -6,6 +6,7 @@
         <Button Content="Calculate" HorizontalAlignment="Left" Margin="209,116,0,0" VerticalAlignment="Top" Width="75" Click="btnCalculate_Click"/>
         <Button Content="Read File" HorizontalAlignment="Left" Margin="129,116,0,0" VerticalAlignment="Top" Width="75" Click="btnReadFile_Click"/>
         <Button Content="Convert" HorizontalAlignment="Left" Margin="289,116,0,0" VerticalAlignment="Top" Width="75" Click="btnConvert_Click"/>
+        <TextBox x:Name="tbCurrentWeek" HorizontalAlignment="Left" Height="23" Margin="129,140,0,0" TextWrapping="Wrap" Text="Current Week" VerticalAlignment="Top" Width="235"/>
 
     </Grid>
 </Window>
