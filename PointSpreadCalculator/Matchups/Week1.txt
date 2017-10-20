@@ -1,0 +1,15 @@
+@New England		vs		Kansas City	8.5	8.5	8.5	8.5	Sun
+@Buffalo		vs		New York (NYJ)	9.5	9.5	11.0	11.0	Sun
+Atlanta		vs		@Chicago	7.5	7.0	7.0	7.0	Sun
+@Cincinnati		vs		Baltimore	3.0	3.0	2.5	2.5	Sun
+Pittsburgh		vs		@Cleveland	10.0	10.0	10.0	10.0	Sun
+Arizona		vs		@Detroit	--	--	1.0	1.0	Sun
+@Tennessee		vs		Oakland	1.0	1.0	1.0	1.0	Sun
+@Washington		vs		Philadelphia	0.0	0.0	0.0	0.0	Sun
+@Houston		vs		Jacksonville	5.0	5.5	5.5	5.5	Sun
+@Los Angeles (LAR)		vs		Indianapolis	3.0	3.0	3.0	3.0	Sun
+@Green Bay		vs		Seattle	3.0	3.0	3.0	3.0	Sun
+Carolina		vs		@San Francisco	5.5	5.5	5.0	5.0	Sun
+@Dallas		vs		New York (NYG)	3.0	3.0	4.0	4.0	Sun
+@Minnesota		vs		New Orleans	0.0	3.0	3.0	3.0	Sun
+@Denver		vs		Los Angeles (LAC)	0.0	3.0	3.0	3.0	Sun

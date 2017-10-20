@@ -1,0 +1,32 @@
+Arizona
+Atlanta
+Baltimore
+Buffalo
+Carolina
+Chicago
+Cincinnati
+Cleveland
+Dallas
+Denver
+Detroit
+Green Bay
+Houston
+Indianapolis
+Jacksonville
+Kansas City
+Los Angeles (LAC)
+Los Angeles (LAR)
+Miami
+Minnesota
+New England
+New Orleans
+New York (NYG)
+New York (NYJ)
+Oakland
+Philadelphia
+Pittsburgh
+San Fransisco
+Seattle
+Tampa Bay
+Tennessee
+Washington

@@ -1,0 +1,52 @@
+c:\users\121339\documents\visual studio 2013\Projects\PointSpreadCalculator\PointSpreadCalculator\bin\Debug\PointSpreadCalculator.exe.config
+c:\users\121339\documents\visual studio 2013\Projects\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.csprojResolveAssemblyReference.cache
+c:\users\121339\documents\visual studio 2013\Projects\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\MainWindow.baml
+c:\users\121339\documents\visual studio 2013\Projects\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\MainWindow.g.cs
+c:\users\121339\documents\visual studio 2013\Projects\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\App.g.cs
+c:\users\121339\documents\visual studio 2013\Projects\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator_MarkupCompile.cache
+c:\users\121339\documents\visual studio 2013\Projects\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.g.resources
+c:\users\121339\documents\visual studio 2013\Projects\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.Properties.Resources.resources
+c:\users\121339\documents\visual studio 2013\Projects\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.csproj.GenerateResource.Cache
+c:\users\121339\documents\visual studio 2013\Projects\PointSpreadCalculator\PointSpreadCalculator\bin\Debug\PointSpreadCalculator.exe
+c:\users\121339\documents\visual studio 2013\Projects\PointSpreadCalculator\PointSpreadCalculator\bin\Debug\PointSpreadCalculator.pdb
+c:\users\121339\documents\visual studio 2013\Projects\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.exe
+c:\users\121339\documents\visual studio 2013\Projects\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.pdb
+E:\PointSpreadCalculator\PointSpreadCalculator\bin\Debug\PointSpreadCalculator.exe.config
+E:\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.exe
+E:\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.pdb
+E:\PointSpreadCalculator\PointSpreadCalculator\bin\Debug\PointSpreadCalculator.exe
+E:\PointSpreadCalculator\PointSpreadCalculator\bin\Debug\PointSpreadCalculator.pdb
+E:\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.csprojResolveAssemblyReference.cache
+E:\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\MainWindow.baml
+E:\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\MainWindow.g.cs
+E:\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\App.g.cs
+E:\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator_MarkupCompile.cache
+E:\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.g.resources
+E:\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.Properties.Resources.resources
+E:\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.csproj.GenerateResource.Cache
+C:\Users\Kyle\Documents\Code\C#\PointSpreadCalculator\PointSpreadCalculator\bin\Debug\PointSpreadCalculator.exe.config
+C:\Users\Kyle\Documents\Code\C#\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.exe
+C:\Users\Kyle\Documents\Code\C#\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.pdb
+C:\Users\Kyle\Documents\Code\C#\PointSpreadCalculator\PointSpreadCalculator\bin\Debug\PointSpreadCalculator.exe
+C:\Users\Kyle\Documents\Code\C#\PointSpreadCalculator\PointSpreadCalculator\bin\Debug\PointSpreadCalculator.pdb
+C:\Users\Kyle\Documents\Code\C#\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\Code\C#\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\MainWindow.baml
+C:\Users\Kyle\Documents\Code\C#\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Kyle\Documents\Code\C#\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\App.g.cs
+C:\Users\Kyle\Documents\Code\C#\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator_MarkupCompile.cache
+C:\Users\Kyle\Documents\Code\C#\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.g.resources
+C:\Users\Kyle\Documents\Code\C#\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.Properties.Resources.resources
+C:\Users\Kyle\Documents\Code\C#\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.csproj.GenerateResource.Cache
+Z:\PointSpreadCalculator\PointSpreadCalculator\bin\Debug\PointSpreadCalculator.exe.config
+Z:\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.exe
+Z:\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.pdb
+Z:\PointSpreadCalculator\PointSpreadCalculator\bin\Debug\PointSpreadCalculator.exe
+Z:\PointSpreadCalculator\PointSpreadCalculator\bin\Debug\PointSpreadCalculator.pdb
+Z:\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.csprojResolveAssemblyReference.cache
+Z:\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\MainWindow.baml
+Z:\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\MainWindow.g.cs
+Z:\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\App.g.cs
+Z:\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator_MarkupCompile.cache
+Z:\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.g.resources
+Z:\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.Properties.Resources.resources
+Z:\PointSpreadCalculator\PointSpreadCalculator\obj\Debug\PointSpreadCalculator.csproj.GenerateResource.Cache

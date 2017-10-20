@@ -1,0 +1,16 @@
+Los Angeles (LAR)		vs		@San Francisco	2.5	2.0	2.0	2.0	Sun
+Baltimore		vs		@Jacksonville	4.0	4.0	3.5	3.5	Sun
+Denver		vs		@Buffalo	1.0	2.5	3.0	3.0	Sun
+Pittsburgh		vs		@Chicago	8.5	8.5	8.0	8.0	Sun
+Atlanta		vs		@Detroit	3.5	3.0	2.5	2.5	Sun
+@Indianapolis		vs		Cleveland	0.0	0.0	0.0	0.0	Sun
+@Minnesota		vs		Tampa Bay	0.0	0.0	0.0	0.0	Sun
+@New England		vs		Houston	14.0	14.5	14.5	14.5	Sun
+Miami		vs		@New York (NYJ)	6.0	6.0	7.0	7.0	Sun
+@Philadelphia		vs		New York (NYG)	3.5	3.5	6.0	6.0	Sun
+@Carolina		vs		New Orleans	6.0	5.5	7.0	7.0	Sun
+@Tennessee		vs		Seattle	3.0	2.5	2.5	2.5	Sun
+@Green Bay		vs		Cincinnati	0.0	10.0	10.0	10.0	Sun
+Kansas City		vs		@Los Angeles (LAC)	2.5	3.0	3.0	3.0	Sun
+Oakland		vs		@Washington	3.5	3.0	3.0	3.0	Sun
+Dallas		vs		@Arizona	0.0	3.0	3.0	3.0	Sun

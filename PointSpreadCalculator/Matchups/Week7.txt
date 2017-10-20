@@ -1,0 +1,15 @@
+Kansas City		vs		@Oakland	2.5	2.5	3.0	3.0	Thu 10/19 05:25 PM	-
+@Buffalo		vs		Tampa Bay	0.0	0.0	0.0	0.0	Sun 10/22 10:00 AM	-
+Carolina		vs		@Chicago	3.0	3.0	3.0	3.0	Sun 10/22 10:00 AM	-
+Tennessee		vs		@Cleveland	7.0	7.0	5.5	5.5	Sun 10/22 10:00 AM	-
+New Orleans		vs		@Green Bay	4.0	6.0	5.5	5.5	Sun 10/22 10:00 AM	-
+Jacksonville		vs		@Indianapolis	3.0	3.0	3.0	3.0	Sun 10/22 10:00 AM	-
+@Los Angeles (LAR)		vs		Arizona	3.5	3.0	3.0	3.0	Sun 10/22 10:00 AM	-
+@Miami		vs		New York (NYJ)	3.5	3.0	3.0	3.0	Sun 10/22 10:00 AM	-
+@Minnesota		vs		Baltimore	5.0	5.5	5.5	5.5	Sun 10/22 10:00 AM	-
+Dallas		vs		@San Francisco	6.0	6.0	6.0	6.0	Sun 10/22 01:05 PM	-
+Seattle		vs		@New York (NYG)	8.0	6.0	5.5	5.5	Sun 10/22 01:25 PM	-
+@Pittsburgh		vs		Cincinnati	6.0	5.0	5.5	5.5	Sun 10/22 01:25 PM	-
+@Los Angeles (LAC)		vs		Denver	1.0	0.0	0.0	0.0	Sun 10/22 01:25 PM	-
+@New England		vs		Atlanta	3.0	3.5	3.5	3.5	Sun 10/22 05:30 PM	-
+@Philadelphia		vs		Washington	0.0	4.5	4.5	4.5	Mon 10/23 05:30 PM	-
